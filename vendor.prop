@@ -1,2 +1,5 @@
 # Bluetooth
 bluetooth.device.default_name=Galaxy A10
+
+# Graphics
+debug.hwui.skia_atrace_enabled=false
